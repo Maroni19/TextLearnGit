@@ -1,3 +1,0 @@
-First file text
-
-Also changed in the branch
